@@ -12,7 +12,7 @@
  {
 	"kind" :"main",
 	"tag": "com-sap-sample-helloworld1",
-	"url": "http://http://localhost:8080/",
+	"url": "https://github.com/Dfilimon95/SAC-Custom-Widgets-Learning/blob/main/webcomponent.js",
 	"integrity":,
 	"ignoreIntegrity": true
  }
